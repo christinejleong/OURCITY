@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<title>Our City</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="styles.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed|Oswald">
+<style>
+body,h1,h2,h3,h4,h5,h6 {font-family: "Barolow Semi Condensed", sans-serif}
+,h1,button {font-family: "Oswald", sans-serif}
+
+</style>
+<body>
+
+<!-- Topnav -->
+<div class="topnav">
+  <div class="topnav-container">
+  <div class="font">
+  
+  <a class="active" href="#home">HOME</a>
+  <a href="#about">ABOUT</a>
+  <a href="#prompts">PROMPTS</a>
+  <a href="#gallery">GALLERY</a>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Header -->
+<header class="display-container content wide" style="max-width:1600px;min-width:500px" id="home">
+  <img class="image" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Boston_Back_Bay_reflection.jpg" alt="Boston Back Bay" width="1600" height="800">
+ <div class="display-topmiddle padding-large border wide text-white center">
+  <div class="display-topmiddle center"></div>
+    <h1 style="font-size: 55px">OUR<br>CITY</h1>
+  </div>
+   <div class="display-middle padding-large wide text-white center">
+  <div class="display-middle center"></div>
+    <h1 style="font-size: 20px">BOSTON</h1>
+  </div>
+</header>
+
+<!-- Home -->
+<div>
+
+<center><p>
+One city. One love. One place.</p>
+<p style="font-weight: bold">This is our city.</p></center>
+
+<div></div>
+
+<br>
+
+<div class="contact-us-text">
+<center><p>OURCITY@GMAIL.COM</p></center>
+</div>
+</div>
+</div>
+
+</body>
+</html>>
